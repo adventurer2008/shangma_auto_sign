@@ -1,6 +1,6 @@
 ## 上马自动签到 [![Run Auto Sign](https://github.com/zhaohongxuan/shangma_auto_sign/actions/workflows/auto-sign.yaml/badge.svg)](https://github.com/zhaohongxuan/shangma_auto_sign/actions/workflows/auto-sign.yaml)
 
-### 基于 Node.js + GitHub Action 实现上海马拉松官网每日签到
+### 基于 Node.js + GitHub Action 实现上海马拉松官网每日签到    
 
 作为上马9年没中签的受害者，我决定做一个`自动化脚本`来签到赚积分，虽然积分对于抽签的权重未可知，但是已知的是一定有用，至于作用多大？ 且看后续的上马抽签结果吧··
 
